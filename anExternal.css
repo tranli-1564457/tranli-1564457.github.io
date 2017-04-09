@@ -2,6 +2,8 @@
     position:relative;
     text-align:center;
     float: left;
+    width: 600px;
+    height: 315px;
 }
 
 .text {
