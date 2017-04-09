@@ -1,12 +1,17 @@
 .image {
+	display: inline-block;
     position:relative;
     text-align:center;
     float: left;
-    }
+}
 
 .text {
     left: 0;
     position:absolute;
     top: 50%;
     width: 100%;
+}
+
+.text2 {
+	text-align: center;
 }
