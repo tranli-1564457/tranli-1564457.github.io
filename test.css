@@ -1,5 +1,6 @@
 body{
 	background-image: url('dark_wood.png');
+	background-attachment: fixed;
 }
 
 p{
@@ -9,6 +10,12 @@ p{
 h3{
 	font-size: 40px;
 	margin-bottom: 0px;
+}
+
+h1, h3{
+	font-family: "Passion One";
+	color: #FFBC00;
+	text-shadow: 2px 2px black;
 }
 
 ul{
@@ -33,11 +40,6 @@ div{
 p, a {
 	color: white;
 	font-weight: bold;
-}
-
-.headers{
-	font-family: "Passion One";
-	color: #FFBC00;
 }
 
 #Header{
