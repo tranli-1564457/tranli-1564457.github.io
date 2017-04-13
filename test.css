@@ -44,6 +44,8 @@ p, a {
 
 #Header{
 	width: 500px;
+	text-decoration: underline;
+	font-variant: small-caps;
 }
 
 #Header h1{
@@ -55,6 +57,7 @@ p, a {
 	width: 400px;
 	padding-bottom: 8px;
 	float:left;
+	position: fixed;
 }
 
 #Content{
